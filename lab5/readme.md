@@ -31,7 +31,7 @@ The system uses an abstract `MusicComposition` class as a base for three specifi
    - `ClassicalComposition.java`
    - `ElectronicComposition.java`
    - `MusicAlbum.java`
-   - `MusicAlbumDemo.java`
+   - `MusicAlbumMain.java`
 
 2. **Open in VS Code**
    - Launch VS Code and navigate to the folder containing the Java files.
@@ -41,7 +41,7 @@ The system uses an abstract `MusicComposition` class as a base for three specifi
    You can run the program using one of the following methods:
 
    ### Option 1: Using the VS Code "Run" Button
-   - Open `MusicAlbumDemo.java`.
+   - Open `MusicAlbumMain.java`.
    - Click the green **Run** button above the `main` method.
 
    ### Option 2: Using the Terminal
@@ -53,7 +53,7 @@ The system uses an abstract `MusicComposition` class as a base for three specifi
      ```
    - Run the compiled program:
      ```bash
-     java MusicAlbumDemo
+     java MusicAlbumMain
      ```
 
 4. **Program Functionality**
